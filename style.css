@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    align-items: center;
+    margin-top: 50px;
+}
+.container{
+    border: 2px solid red;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    padding: 10px 10px;
+}
+.container h1{
+    border: 2px solid red;
+}
+.container p{
+    border: 2px solid red;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+}
+.container ul{
+    border: 2px solid red;
+    padding: 10px 5px;
+    margin-bottom: 20px;
+}
+.container li{
+    border: 2px solid red;
+    padding: 10px;
+}
+span{
+    
+}
+button{
+    border: 2px solid red;
+    padding: 5px;
+}
+a{
+    border:2px solid red;
+    padding: 5px;
+}
